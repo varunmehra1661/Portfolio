@@ -29,6 +29,7 @@ export const Projects = () => {
       title: "DRUM-KIT",
       description: "With Sound Effect.",
       imgUrl: proj3,
+
     },
     {
       title: "RPS Game",

@@ -32,7 +32,7 @@ export const NavBar = () => {
   const onUpdateActiveLink = (value) => {
     setActiveLink(value);
   }
-  const resumeURL = 'https://docs.google.com/document/d/1_wQjxsSM_2AQvsnre2uF93liyyKVYn-R/edit?usp=sharing&ouid=108611481356111773270&rtpof=true&sd=true';
+  const resumeURL = 'https://drive.google.com/file/d/1I8AJwKpaL7JP8SGCvXBmAm0BwVkAwEEm/view?usp=sharing';
   return (
     <Router>
       <Navbar expand="md" className={scrolled ? "scrolled" : ""}>
